@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CS215 Homepage</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- this meta is required for CSS validation to work properly -->
+  <meta name="referrer" content="unsafe-url"/>
+</head>
+
+<body>
+  <header id="header">
+    <h1>Webpage Title</h1>
+  </header>
+
+  <nav>
+    <div class="nav-container">
+      <a href="">Assignment 1</a>
+      <a href="assignment_2/login.html">Assignment 2</a>
+      <a href="assi">Assignment 3</a>
+      <a href="">Assignment 4</a>
+      <a href="">Assignment 5</a>
+      <a href="">Assignment 6</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <section>
+      <h2>About me</h2>
+      <img src="images/photo.jpg" alt="Image of Ada Lovelace" />
+
+      <article>
+        <h3>Jeme Jane Ogun</h3>
+        <p>
+          Tell us about yourself. What year and faculty are you in? Your goals and ambitions.
+        </p>
+        <p>
+          Hi, my name is Jeme Jane Ogun
+          I'm in my 3rd year in the falculty of science, doing my bachelor degree in computer science.
+          I really love to be able to help people and also impact people's lives. 
+          Not entirely figured out how to achieve this, but i'm ready to do what I can one step at a time.
+        </p>
+      </article>
+
+      <article>
+        <h3>My Hobbies</h3>
+        <p>
+          What are your hobbies, favourite dishes, and favourite quotes?
+        </p>
+        <p>
+         I like singing, watching movies and reading books.
+        </p>
+      </article>
+
+      <article>
+        <h3>CS 215 Goals</h3>
+        <p>
+          Tell us why you took CS 215 and what are your expectations from the course?
+        </p>
+        <p>
+          I took this course because it was a requirement for my degree, but I'm really excited to learn more about
+          building a website.
+        </p>
+      </article>
+
+    </section>
+
+    <aside>
+      <h2>Lab Assignments</h2>
+      <ul>
+        <li>
+          <a href="">Lab 1</a>
+        </li>
+        <li>
+          <a href="Latestlab2/Lab 2 Resources/Sketch & boardstory.pdf">Lab 2</a>
+        </li>
+        <li>
+          <a href="lab3/Lab 3 Resources/Login.html">Lab 3</a>
+        </li>
+        <li>
+          <a href="lab4/Number-guessing-game.html">Lab 4</a>
+        </li>
+
+      </ul>
+
+    </aside>
+  </div>
+
+  <footer>
+    <p> CS 215: Web &amp; Database Programming</p>
+    <p><a href = "https://validator.w3.org/check%3Furi%3Dhttp%253A%252F%252Fwww.webdev.cs.uregina.ca%252F%7Ejow286%26charset%3D%2528detect%2Bautomatically%2529%26doctype%3DXHTML%2B1.1%26grou">XHTML 1.1 validation</a></p>
+    <p><a href = "https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.webdev.cs.uregina.ca%2F%7Ejow286&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en">CSS3 validation</a></p>
+  </footer>
+</body>
+
+</html>
